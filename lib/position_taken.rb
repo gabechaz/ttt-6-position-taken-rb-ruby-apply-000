@@ -13,4 +13,7 @@ end
 if array[index_number] == nil
   return false
 end
+  if array[index_number] == "X" || "O"
+    return true
+end
 end
