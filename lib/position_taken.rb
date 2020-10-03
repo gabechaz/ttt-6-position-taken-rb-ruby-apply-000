@@ -14,3 +14,4 @@ end
 if array[index_number] == "nil"
   return false
 end
+end
