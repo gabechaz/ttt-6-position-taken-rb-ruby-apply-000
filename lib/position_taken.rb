@@ -10,7 +10,7 @@ if array[index_number] == ""
   return false
 end
 
-if array[index_number] == "nil"
+if array[index_number] == nil
   return false
 end
 end
