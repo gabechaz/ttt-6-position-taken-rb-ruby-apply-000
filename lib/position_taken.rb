@@ -7,10 +7,12 @@ if array[index_number] == " "
   
   
 if array[index_number] == ""
+  return false
+end
+
+
+if array[index_number] == "nil"
   
-
-
-array[index_number] == "nil"
 
 
   
